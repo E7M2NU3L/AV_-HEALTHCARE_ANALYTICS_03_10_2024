@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/31c50962f1a04a72b04f7866985e0a45/artifacts
+end_time: 1741435335923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31c50962f1a04a72b04f7866985e0a45
+run_name: popular-grouse-207
+run_uuid: 31c50962f1a04a72b04f7866985e0a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741435335624
+status: 4
+tags: []
+user_id: Admin

@@ -1,0 +1,1 @@
+[('rf', 'RandomForestClassifier'), ('ad', 'AdaBoostClassifier'), ('gn', 'GaussianNB')]

@@ -1,0 +1,5 @@
+[('rf', RandomForestClassifier(criterion='entropy', max_depth=12, n_estimators=50)), ('ad', AdaBoostClassifier(algorithm='SAMME.R',
+                   estimator=DecisionTreeClassifier(max_features='sqrt',
+                                                    min_weight_fraction_leaf=0,
+                                                    random_state=42),
+                   random_state=42)), ('gn', GaussianNB())]

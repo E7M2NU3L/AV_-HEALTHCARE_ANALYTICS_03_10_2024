@@ -1,0 +1,5 @@
+AdaBoostClassifier(algorithm='SAMME.R',
+                   estimator=DecisionTreeClassifier(max_features='sqrt',
+                                                    min_weight_fraction_leaf=0,
+                                                    random_state=42),
+                   random_state=42)

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/0c4ee53f7aa34dd8b93175a502937ed7/artifacts
+end_time: 1741435499967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c4ee53f7aa34dd8b93175a502937ed7
+run_name: secretive-kit-591
+run_uuid: 0c4ee53f7aa34dd8b93175a502937ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741435499448
+status: 4
+tags: []
+user_id: Admin
