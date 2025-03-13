@@ -12,7 +12,7 @@ st.markdown("# Metrics and MetaData of the model uploaded in the MLFlow pipeline
 st.image("https://cloud.appwrite.io/v1/storage/buckets/67bc4318002f0fb618ba/files/67cc365f003375214e0c/view?project=67bc42e500120c3b7c09")
 st.image("https://cloud.appwrite.io/v1/storage/buckets/67bc4318002f0fb618ba/files/67cc3657001ea03a840f/view?project=67bc42e500120c3b7c09")
 
-
+ 
 st.markdown("# Model Parameters")
 st.markdown("""
         {'estimators': [
